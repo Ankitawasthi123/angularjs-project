@@ -1,5 +1,5 @@
 {
   "user": [
-    {"name": "ankit", "email": "ankit@gmail.com", "password": "ankit123", "country": "india",  dob": "10-03-1988"}
+    {"name": "ankit", "email": "ankit@gmail.com", "password": "ankit123", "country": "india",  "dob": "10-03-1988"}
   ]
 }
